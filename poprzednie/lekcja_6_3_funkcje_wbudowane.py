@@ -1,0 +1,15 @@
+lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+print(f"Funkcja max: {max(lista)}")
+print(f"Funkcja min: {min(lista)}")
+print(f"Funkcja sum: {sum(lista)}")
+print(f"Funkcja len: {len(lista)}")
+print(len("lista"))
+print(f"Funkcja reversed: {reversed(lista)}")
+lista_a = list(reversed(lista))
+print(f"Funkcja reversed po konwersji: {lista_a}")
+print(lista_a)
+print(f"Funkcja sorted: {sorted(lista_a)}")
+print(lista_a)
+lista_a.sort()
+print(f"Metoda sort: {lista_a}")
