@@ -1,0 +1,1 @@
+# Git to jest funkcja testowa
